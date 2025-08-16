@@ -1,10 +1,5 @@
 # Build artifacts
-bin/Win32/
-bin/x64/
 lib/
-
-# Generated documentation
-docs/
 
 # CMake build files
 CMakeCache.txt
