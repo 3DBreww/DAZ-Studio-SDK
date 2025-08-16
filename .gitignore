@@ -1,0 +1,33 @@
+# Build artifacts
+bin/Win32/
+bin/x64/
+lib/
+
+# Generated documentation
+docs/
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.o
+
+# Visual Studio files
+.vs/
+*.suo
+*.sdf
+*.ipch
+*.ncb
+*.vcxproj.user
+*.vcxproj.filters
+# Temporary files
+*.swp
+*~
