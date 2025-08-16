@@ -1,5 +1,5 @@
 # Build artifacts
-lib/
+# lib/
 
 # CMake build files
 CMakeCache.txt
@@ -8,12 +8,12 @@ cmake_install.cmake
 Makefile
 
 # Compiled binaries
-*.exe
-*.dll
-*.lib
-*.pdb
-*.obj
-*.o
+# *.exe
+# *.dll
+# *.lib
+# *.pdb
+# *.obj
+# *.o
 
 # Visual Studio files
 .vs/
